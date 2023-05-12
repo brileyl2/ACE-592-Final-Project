@@ -3,16 +3,17 @@ Deepika, Briley, Rong &amp; Yujie's final project repository on the Nobel Peace 
 
 **ACE 592- Nobel Peace Prize Final Project**
 
-**Description**
+**Description**:
 Text & geospatial analysis of Nobel Prizes. For Dr. Jared Hutchins Data Science Class
 
-**Resources Used**
-Kaggle
+**Resources Used**:
+Kaggle:
   nobel.csv
-Correlates of War
+Correlates of War:
   war.csv
 
-**Geospatial Analysis**
+**Geospatial Analysis**:
 For the geospatial analysis you will need the nobel.csv & war.csv. You will then want to open the geospatial notebook and run it to see our findings.
 
-**Text Analysis**
+**Text Analysis**:
+For the text analysis you will need the nobel.csv. You will want to open the text analysis notebook and run it to see our findings.
